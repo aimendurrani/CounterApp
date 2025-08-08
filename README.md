@@ -1,4 +1,10 @@
+
 # CounterApp
+
+This project is a simple Counter App built in Angular to practice **core Angular concepts**.
+It demonstrates **interpolation** (`{{count}}`) for displaying dynamic data, **event binding** (`(click)`) for handling button clicks, and **property binding** (`[disabled]`) for conditional UI states.
+All logic is managed inside a **component class** defined with the `@Component` decorator, using a `count` property for state and `handleCounter()` for updates.
+Through building this, I reinforced my understanding of **data binding, component structure, and conditional rendering** in Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
 
